@@ -1,0 +1,145 @@
+{
+  "status": "success",
+  "items": [
+    {
+      "id": 1,
+      "title": "Zenitsu - funko ",
+      "price": 101,
+      "image": "https://viraltoyscollection.com/wp-content/uploads/2021/08/zenitzu-1.png",
+      "category": "funko"
+    },
+    {
+      "id": 2,
+      "title": "Hide - funko ",
+      "price": 104,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_901143-MLA43693804935_102020-O.jpg",
+      "category": "funko"
+    },
+    {
+      "id": 3,
+      "title": "Goku S. - funko",
+      "price": 75,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_699405-MLA49305860294_032022-O.jpg",
+      "category": "funko"
+    },
+    {
+      "id": 4,
+      "title": "Thanos A. - funko",
+      "price": 99,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_668741-MPE31255607935_062019-O.jpg",
+      "category": "funko"
+    },
+    {
+      "id": 5,
+      "title": "Harry Pyyer - funko",
+      "price": 105,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_788860-MLA49222414328_022022-O.webp",
+      "category": "funko"
+    },
+    {
+      "id": 6,
+      "title": "Polo diseño - Gamer",
+      "price": 85,
+      "image": "https://masterstore.com.pe/wp-content/uploads/2021/09/Gamer.jpg",
+      "category": "polo"
+    },
+    {
+      "id": 7,
+      "title": "Polo diseño - Pizza",
+      "price": 60,
+      "image": "https://image.spreadshirtmedia.net/image-server/v1/mp/products/T1267A2PA3631PT17X30Y38D175849560W24189H24189/views/2,width=378,height=378,appearanceId=2,backgroundColor=F2F2F2,modelId=3104,crop=list/mirada-de-pareja-pizza-amor-pareja-pareja-gracioso.jpg",
+      "category": "polo"
+    },
+    {
+      "id": 8,
+      "title": "Polo diseño - Pacman",
+      "price": 46,
+      "image": "https://larocola1990.com/wp-content/uploads/2021/08/polo-pacman-600x600.jpg",
+      "category": "polo"
+    },
+    {
+      "id": 9,
+      "title": "Polo diseño - Coder",
+      "price": 79,
+      "image": "https://www.zalo.pe/wp-content/uploads/2022/03/polos-programacion-programador-profesiones-lima-peru-1.jpg",
+      "category": "polo"
+    },
+    {
+      "id": 10,
+      "title": "Polo diseño - Codigo",
+      "price": 90,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_790698-MLA51559503269_092022-W.jpg",
+      "category": "polo"
+    },
+    {
+      "id": 11,
+      "title": "Taza diseño - Gamer",
+      "price": 60,
+      "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/171/765/products/20210714_2042091-10a8873b4f619be0a416263083663096-1024-1024.jpg",
+      "category": "taza"
+    },
+    {
+      "id": 12,
+      "title": "Taza diseño - Luffy",
+      "price": 65,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_862719-MLM44782558282_022021-O.jpg",
+      "category": "taza"
+    },
+    {
+      "id": 13,
+      "title": "Taza diseño - Coder",
+      "price": 51,
+      "image": "https://i.etsystatic.com/12261172/r/il/2fa747/3658438410/il_570xN.3658438410_r3dp.jpg",
+      "category": "taza"
+    },
+    {
+      "id": 14,
+      "title": "Taza diseño - Spiderman",
+      "price": 48,
+      "image": "https://i.linio.com/p/12e97d38701e95e97ce9352da351922e-product.jpg",
+      "category": "taza"
+    },
+    {
+      "id": 15,
+      "title": "Taza diseño - Hellboy",
+      "price": 75,
+      "image": "https://m.media-amazon.com/images/I/61YKbWZ11BL._AC_SX569_.jpg",
+      "category": "taza"
+    },
+    {
+      "id": 16,
+      "title": "Audifonos logittech",
+      "price": 199,
+      "image": "https://ripleype.imgix.net/http%3A%2F%2Fs3.amazonaws.com%2Fimagenes-sellers-mercado-ripley%2F2021%2F02%2F02132547%2FG935-WIRELESS_1.jpg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=474ff28a426e484ff6a2ff67dee5d573",
+      "category": "componentes"
+    },
+    {
+      "id": 17,
+      "title": "Mouse logitech",
+      "price": 195,
+      "image": "https://plazavea.vteximg.com.br/arquivos/ids/876382-1000-1000/image-e9c560b165394cbcb22f51078b282a13.jpg?v=637493486056900000",
+      "category": "componentes"
+    },
+    {
+      "id": 18,
+      "title": "Teclado logitech",
+      "price": 285,
+      "image": "https://home.ripley.com.pe/Attachment/WOP_5/2004264633996/2004264633996-1.jpg",
+      "category": "componentes"
+    },
+    {
+      "id": 19,
+      "title": "Logitech y Riot",
+      "price": 2760,
+      "image": "https://www.techgames.com.mx/wp-content/uploads/2021/10/Logitech-G-y-Riot-Games-LOL.jpg",
+      "category": "componentes"
+    },
+    {
+      "id": 20,
+      "title": "Audifonos logittech",
+      "price": 335,
+      "image": "https://www.mastekhw.com/wp-content/uploads/2022/05/Logitech-G-presenta-nuevos-perifericos-inspirados-en-League-of-Legends.jpg",
+      "category": "componentes"
+    }
+  ]
+}
